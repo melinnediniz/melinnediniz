@@ -20,13 +20,15 @@
   
   ##
   
-  <div> 
-  <a href="https://instagram.com/oldiniz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:melinnediniz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <div> 
+  <a href="https://instagram.com/melinnediniz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:mddo.snf21@uea.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/melinne-diniz-866a641a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+ 
+  ![Snake animation](https://github.com/melinnediniz/melinnediniz/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
   <h3> Visitantes </h3>  
  <div>
-  <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=melinnediniz&color=green" alt="melinnediniz" /> <br>
+  <img align="center" alt="view" height="30" width="150" src="https://komarev.com/ghpvc/?username=melinnediniz&color=green" alt="melinnediniz" /> <br>
  </div>  
