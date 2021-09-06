@@ -33,5 +33,5 @@
   
   <h3> Visitantes </h3>  
  <div>
-  <img align="center" alt="view" height="30" width="150" src="https://komarev.com/ghpvc/?username=melinnediniz&color=green" alt="melinnediniz" /> <br>
+  <img align="center" alt="view" height="20" width="100" src="https://komarev.com/ghpvc/?username=melinnediniz&color=green" alt="melinnediniz" /> <br>
  </div>  
