@@ -1,7 +1,7 @@
 ### Olá 👋, sou a Melinne Diniz
 
 - 🎓 Cursando Sistemas de Informação e Graduada em Téc. em Informática
-- 🌱 Atualmente Estudando Python e C++
+- 🌱 Atualmente Estudando Python
 - 🐱‍💻 Possuo interesse em Design UI e Front-end
 ##
 
