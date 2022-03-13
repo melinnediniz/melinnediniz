@@ -1,10 +1,11 @@
-## Hi 👋, I'm Melinne Diniz
+<div align="center">
+<img src="https://github.com/melinnediniz/melinnediniz/blob/main/git-name.png?raw=true">
+</div>
 
+## <img src="https://media.giphy.com/media/l1J9tiMFKV8R31J9m/giphy.gif" width="42"> About me
 - 🎓 Currently studying Information Systems at UEA
 - 🌱 Learning Python
 - 🐱‍💻 Interested in UI Design and Front-end
-
-###
 
 ## <img src="https://media.giphy.com/media/zEfGeGWJHPMAKvh6gi/giphy.gif" width="52"> My Github Stats
 
@@ -40,3 +41,5 @@
  <div align="center"> 
   <img src="https://profile-counter.glitch.me/melinnediniz/count.svg" />
 </div> 
+  
+⭐️ From [melinnediniz](https://github.com/melinnediniz)
