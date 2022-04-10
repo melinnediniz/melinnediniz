@@ -13,7 +13,12 @@
   <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melinnediniz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <p><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melinnediniz&layout=compact&langs_count=7&theme=dracula"/></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melinnediniz&theme=radical" alt="melinnediniz" /></p>
   </div>
+  
+ 
+ <br />
+ 
 <div style="display: inline_block"><br>
   <p align="center">
   <a href="https://github.com/melinnediniz"><img src="https://img.shields.io/badge/python-1E90FF.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=E0FFFF"       alt="python"></a>
