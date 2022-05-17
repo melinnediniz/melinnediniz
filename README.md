@@ -4,7 +4,7 @@
 
 ## <img src="https://media.giphy.com/media/l1J9tiMFKV8R31J9m/giphy.gif" width="42"> About me
 - 🎓 Currently studying Information Systems at UEA
-- 🌱 Learning Python
+- 🌱 Learning Python and C#
 - 🐱‍💻 Interested in UI Design and Front-end
 
 ## <img src="https://media.giphy.com/media/zEfGeGWJHPMAKvh6gi/giphy.gif" width="52"> My Github Stats
