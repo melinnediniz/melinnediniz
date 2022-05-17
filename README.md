@@ -34,8 +34,7 @@
   
   ## <img src="https://media.giphy.com/media/lwEYFLp28kkW2cPXov/giphy.gif" width="40"> Social Media
   
- <div align="center"> 
-  <a href="https://instagram.com/oldiniz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+ <div align="center">  
   <a href = "mailto:mddo.snf21@uea.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/melinne-diniz-866a641a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
