@@ -23,7 +23,6 @@
 <div style="display: inline_block"><br>
   <p align="center">
   <a href="https://github.com/melinnediniz"><img src="https://img.shields.io/badge/python-1E90FF.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=E0FFFF"       alt="python"></a>
-   <a href="https://github.com/melinnediniz"><img src="https://img.shields.io/badge/pygame-8A2BE2.svg?style=for-the-badge&logo=python&logoColor=800080&labelColor=D8BFD8"       alt="pygame"></a>
    <a href="https://github.com/melinnediniz"><img src="https://img.shields.io/badge/C-FF6347.svg?style=for-the-badge&logo=c&logoColor=FF4500&labelColor=FFFFE0"       alt="c"></a>
    <a href="https://github.com/melinnediniz"><img src="https://img.shields.io/badge/VSCode-4169E1.svg?style=for-the-badge&logo=VisualStudio&logoColor=007ACC&labelColor=FFFFE0" alt="c"></a>
    <a href="https://github.com/melinnediniz"><img src="https://img.shields.io/badge/pycharm-2E8B57.svg?style=for-the-badge&logo=Pycharm&logoColor=000000&labelColor=FFFFE0" alt="c"></a>
