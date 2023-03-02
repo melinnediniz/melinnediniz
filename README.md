@@ -4,7 +4,7 @@
 
 ## <img src="https://media.giphy.com/media/l1J9tiMFKV8R31J9m/giphy.gif" width="42"> About me
 - 🎓 Currently studying Information Systems at UEA
-- 🌱 Learning Python, JavaScript, TyoeScript, React Native and Machine Learning
+- 🌱 Learning Python, JavaScript, TypeScript, Node.js, React Native and Machine Learning
 - 💻 Interested in Data Analytics and Machine Learning
 
 ## <img src="https://media.giphy.com/media/zEfGeGWJHPMAKvh6gi/giphy.gif" width="52"> My Github Stats
